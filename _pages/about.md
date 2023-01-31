@@ -1,17 +1,11 @@
 ---
-title: About
+title: "Despre mine"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Mă numesc Emilia, sau M. pe scurt. Sunt persoană non-binară feminină, etichetă foarte rar folosită în momentul de față în Romania.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Mi-am dorit de foarte mult timp să încep acest blog, cu scopul de a-mi împărtăși experiențele despre ce înseamnă a fii bărbat travestit la început de 2010 în România.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Acest blog este special dedicat bărbaților ce se travestesc la rândul lor. Sper din tot sufletul ca acest blog să te ajute să te înțelegi mai bine și ideal, să te accepți așa cum ești.
+Dacă ești apropiat persoanei ce se travestește(părinte, prieten, parteneră), sper ca acest blog să te ajute să înțelegi greutățile prin care trece cel de lângă tine.

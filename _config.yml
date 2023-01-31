@@ -21,9 +21,10 @@
 title: Blogul Emiliei
 email: emilia.m.cioban@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about men that wear women's clothes. And no, it's not sexual
+  Un blog despre ce înseamnă a fi travestit în România
 minimal_mistakes_skin: default
 search: true
+locale: "ro-RO"
 
 # Build settings
 markdown: kramdown
@@ -47,12 +48,8 @@ plugins:
 
 author:
   name   : "Emilia M. Cioban"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Blogger ce incearca sa ajute alti barbati sa se impace cu feminitatea lor."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://emiliamcioban.github.io"
+  avatar : "/assets/images/me.png"
+  bio    : "Persoană non-binară feminină, sper ca experiențele mele să vă ajute să vă înțelegeți mai bine."
 
 defaults:
   # _posts

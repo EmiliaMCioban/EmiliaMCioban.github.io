@@ -1,4 +1,4 @@
-# ellasheppard.github.io
+# EmiliaMCioban.github.io
 
 To run the project locally, enter:
 
@@ -12,7 +12,7 @@ Browse to http://localhost:4000
 
 To view your changes on Github Pages, go to:
 
-ttps://ellasheppard.github.io/
+https://emiliamcioban.github.io
 
 ==========================================
 
@@ -22,19 +22,13 @@ ttps://ellasheppard.github.io/
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-**Minima theme**
-
-To override a Minima config gile, first find it in the gem installation directory, copy its contents,
-then modify it accordingly.
-
-Gem location: <Installation dir>\Ruby31-x64\lib\ruby\gems\3.1.0\gems\minima-2.5.1
-
-https://github.com/jekyll/minima
-
 **_config.yml**
 
 description:
 - It will appear in your document head meta (for Google search results) and in your feed.xml site description
+locale:
+- add "locale:" to the _config.yml file
+- add the "ui-text.yml" file to _data. You can find all the labels used by minimal mistake at: https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
 
 **Posts**
 

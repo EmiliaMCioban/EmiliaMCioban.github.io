@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Articole"
     url: /posts/
-  - title: "Categories"
+  - title: "Categorii"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Despre mine"
     url: /about/
