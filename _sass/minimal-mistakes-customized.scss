@@ -1,3 +1,12 @@
+@media (min-width: 48em) { html { font-size: 18px; } }
+@media (min-width: 64em) { html { font-size: 18px; } }
+@media (min-width: 80em) { html { font-size: 18px; } }
+
+p { text-align: justify; }
+.sidebar p { text-align: left; }
+
+p > code { font-size: 1em; }
+
 .masthead {
   background-color: pink;
   position: relative;
