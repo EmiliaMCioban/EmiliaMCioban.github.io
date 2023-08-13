@@ -3,9 +3,8 @@ title: "Despre mine"
 permalink: /about/
 ---
 
-Mă numesc Emilia, sau M. pe scurt. Sunt persoană non-binară feminină, etichetă foarte rar folosită în momentul de față în Romania.
+Mă numesc Emilia, sau M pe scurt. Sunt persoană non-binară feminină, etichetă foarte rar folosită în momentul de față în Romania.
 
-Mi-am dorit de foarte mult timp să încep acest blog, cu scopul de a-mi împărtăși experiențele despre ce înseamnă a fii bărbat travestit la început de 2010 în România.
+Acest blog este dedicat bărbaților din România ce se travestesc, crossdresser-ilor și persoanelor non-binare feminine. Desigur, fiecare experiență este unică, dar cred că vei găsi și multe lucruri pe care le avem în comun.
 
-Acest blog este special dedicat bărbaților ce se travestesc la rândul lor. Sper din tot sufletul ca acest blog să te ajute să te înțelegi mai bine și ideal, să te accepți așa cum ești.
-Dacă ești apropiat persoanei ce se travestește(părinte, prieten, parteneră), sper ca acest blog să te ajute să înțelegi greutățile prin care trece cel de lângă tine.
+Speranța mea este ca aceste experiețe să te ajute, dragă cititorule, să înțelegi mai bine provocările prin care trecem crescând în România fiind "diferiți". Poate acest blog te va ajuta și pe tine să te cunoști mai bine?  

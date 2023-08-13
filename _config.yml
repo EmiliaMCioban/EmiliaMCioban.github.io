@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blogul Emiliei
+title: Blogul lui M.
 email: emilia.m.cioban@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Un blog despre ce înseamnă a fi travestit în România
@@ -50,6 +50,9 @@ author:
   name   : "Emilia M. Cioban"
   avatar : "/assets/images/me.png"
   bio    : "Persoană non-binară feminină, sper ca experiențele mele să vă ajute să vă înțelegeți mai bine."
+  email  : "emilia.m.cioban@gmail.com"
+  instagram: "emilia.m.cioban"
+  facebook: "emi.m.sheppard.9066389"
 
 defaults:
   # _posts
