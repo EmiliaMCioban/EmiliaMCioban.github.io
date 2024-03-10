@@ -1,5 +1,5 @@
 ---
-title: <p>Încep tratamentul cu hormoni!</p>
+title: <p><em>Încep tratamentul cu hormoni!</em></p>
 excerpt: ""
 date: 2023-10-01 10:30:00 +0200
 categories:
