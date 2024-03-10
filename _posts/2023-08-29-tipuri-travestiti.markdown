@@ -1,6 +1,6 @@
 ---
-title: <p>2. Deci, sunt mai multe tipuri de travestiți?</p>
-excerpt: Da! Și cred că ar fi bine să putem face distincția între aceste tipuri.
+title: <p>2. Deci, sunt mai multe feluri de travestiți?</p>
+excerpt: Da! Și cred că ar fi bine să facem distincția între ele.
 date: 2023-08-13 10:30:00 +0200
 categories:
   - crossdressing
@@ -13,7 +13,7 @@ Dacă în articolul precedent am povestit puțin despre ce *NU* este un bărbat 
 
 Până acolo însă, să revenim la oile noastre și să vorbim puțin despre
 
-### 1. Fetișuri erotice
+## 1. Fetișuri erotice
 
 Cred că este cel mai cunoscut motiv pentru care un bărbat ar îmbracă haine de damă. Anumite articole precum chiloții, dresurile sau pantofii cu toc reprezintă obiecte cu o mare încărcătură erotică. Doar vedem zilnic reclame cu super-modele îmbrăcate astfel, nu?
 
@@ -23,7 +23,7 @@ Poate la fel de important, mulți bărbați sunt excitați atunci când sunt for
 
 Dragă cititorule, simt că este important să menționez: a avea un fetiș (sau mai multe) nu este un lucru rău, pervers sau denigrant. Ba din contră, aș zice că este o componentă normală a firii umane, întâlnită la majoritatea oamenilor. Singurul moment în care aș trage un semnal de alarmă este atunci când un fetiș îți domină viața sexuală - dacă nu poți să te bucuri de sex fără fetișul tău. Atunci da, cred că ar trebui să te îngrijorezi. Altfel? Dăi înainte și bucură-te de o viață sexuală bogată și diversă!
 
-### 2. Care-i faza cu “Drag queens”?
+## 2. Care-i faza cu “Drag queens”?
 
 Dacă ai auzit de `RuPaul's Drag Race`, ești printre puținii români care știu deja ce este o `drag queen` (regină a drag-ului). Foarte pe scurt, drag-ul este o formă de divertisment (sau chiar artă uneori) în care persoana în cauză joacă un personaj de-o feminitate exagerată; machiajul, hainele, comportamentul, toate sunt de obicei extravagante. Deși majoritatea reginelor sunt bărbați gay, oricine poate juca rolul de “drag queen”.
 
@@ -33,7 +33,7 @@ OK, până acum am vorbit despre fetișuri sexuale și forme de divertisment. Da
 
 *Pentru că așa simțim că ne place să ne îmbrăcăm.*
 
-### Adică… ești un bărbat care îi place să poarte fuste?
+## Adică… ești un bărbat care îi place să poarte fuste?
 
 Dap.
 
@@ -45,13 +45,13 @@ Acordă-ți puțin timp să găsești un răspuns, apoi continuă să citești m
 
 Răspunsuri de genul “Pentru că asta poartă și restul lumii.”, sau “Pentru că mi-e frică de ce-o să zică ceilalți!” nu sunt OK, chiar dacă înțeleg perfect de unde vin - doar le-am folosit drept scuză să nu fac ce îmi doream de multe ori. În afara câtorva excepții - de exemplu, uniforma de muncă sau de școală -, singurul răspuns ar trebui să fie "Pentru că așa îmi place". Modul cum te îmbraci ar trebui să fie totalmente decizia ta. Și nu, nu ar trebui să te simți obligat să găsești argumente pentru ceea ce faci atâta timp cât activitatea nu aduce prejudicii celor din jur.
 
-### 3. OK, dar totuși, nu ai vreun motiv?
+## 3. OK, dar totuși, nu ai vreun motiv?
 
 Hm… am stat mult să mă gândesc de ce fac ceea ce fac, și sincer…? Indiferent ce răspuns am găsit, nu m-a satisfăcut mai mult decât pur și simplu să port acele tocuri sau acea rochie preferate. Cu alte cuvinte, mi-am dat seama că a găsi argumente pentru a face ceva ce-mi place e pierdere de vreme. “*Just do it!*” cum zice Shia Labeouf.
 
 Totuși, explicația care are cel mai mult sens pentru mine… este că așa îmi exprim eu erotismul. Un exemplu - atunci când port colanți negri, mulați, din imitație de piele. Așa cum o femeie ce poartă aceiași colanți nu se excită când se uită în oglindă, la fel nici eu. Pur și simplu consider că acei colanți mă fac să mă simt *SEXY*; atrag atenția către picioare, care mi se par punctul meu forte. Cu alte cuvinte, în loc să port o cămașă ce-mi accentuează umerii lați, eu prefer să pun în evidență atributele mele feminine. Este modul prin care eu doresc să atrag tipe. Și știu, nu sunt multe femei atrase de bărbați atât de feminini, în special în România… Dar asta este o cu totul altă discuție.
 
-### La final
+## La final
 
 Cu siguranță există și alte motive pentru care bărbații îmbracă haine de damă, dar cele trei de mai sus sunt cele mai des întâlnite.
 
