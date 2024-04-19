@@ -3,8 +3,8 @@ title: "Despre mine"
 permalink: /about/
 ---
 
-Mă numesc Emilia, sau M pe scurt. Sunt persoană non-binară feminină, etichetă foarte rar folosită în momentul de față în Romania.
+Dragă cititorule, mă numesc Ema, sau M pe scurt. Sunt persoană non-binară feminină, etichetă rar folosită în momentul de față în Romania.
 
-Acest blog este dedicat bărbaților din România ce se travestesc, crossdresser-ilor și persoanelor non-binare feminine. Desigur, fiecare experiență este unică, dar cred că vei găsi și multe lucruri pe care le avem în comun.
+Vreau să dedic acest blog tuturor celor încă nu și-au găsit propria identitate. Sunt perfect conștientă că fiecare experiență este unică, dar în același timp simt că avem și foarte multe în comun. 
 
-Speranța mea este ca aceste experiețe să te ajute, dragă cititorule, să înțelegi mai bine provocările prin care trecem crescând în România fiind "diferiți". Poate acest blog te va ajuta și pe tine să te cunoști mai bine?  
+Scriind aceste rânduri, sper că vei înțelege mai bine gândurile intruzive care nu-ți dau pace, dificultățile prin care treci vor fi mai ușor de suportat, iar viața-ți va deveni dragă din nou.
