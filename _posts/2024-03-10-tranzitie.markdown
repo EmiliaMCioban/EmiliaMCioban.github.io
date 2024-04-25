@@ -7,7 +7,7 @@ categories:
 ---
 Dragă cititorule, bine ai revenit pe blogul meu! Știu, știu, a durat o eternitate până să scriu acest articol… Sărbătorile de iarnă, mersul la schi, etcetera, etcetera și alte scuze. Dar acum, cu noul an, mi-am propus să continui să vă povestesc câte ceva despre ce mi s-a mai întâmplat de când am început tranziția.
 
-## Ăăă… Despre ce tranziție vorbim?
+## "Ăăă… Despre ce tranziție vorbim?"
 
 În caz că nu mai ții minte, dragă cititorule, în articolul precedent vorbeam despre începerea unei terapii hormonale de feminizare. Ei bine, pentru persoane ca mine, asta reprezintă o parte dintr-un proces mai amplu de schimbare… de tranziție. Multă lume când aude acest cuvânt se gândește la operații pentru mărirea sânilor sau schimbarea sexului.
 
@@ -22,7 +22,7 @@ Acuma, poate te întrebi de ce nu am optat și pentru o operație de schimbare a
 
 Tranziția mea este doar socială și medicală (cel puțin pentru viitorul apropiat): socială, pentru că am atras atenția lumii din viața mea că vor urma schimbări în felul cum arăt; medicală pentru că am început terapia cu hormoni.
 
-## Stai puțin! Ia-o mai încet. Cum ai ajuns să iei decizia de a… tranziționa?
+## "Stai puțin! Ia-o mai încet. Cum ai ajuns să iei decizia de a… tranziționa?"
 
 Excelentă întrebare! Pe care din păcate nu o voi aborda în acest articol… Defapt, întregul meu blog ar trebui să explice motivele care m-au determinat să încep acest drum. Ce pot zice FOARTE pe scurt este că m-am lăsat ghidat de ceea ce am simțit că este bine pentru mine. “Pentru că asta mă face fericit!”, cum s-ar zice.
 
@@ -30,7 +30,7 @@ Ce mi se pare totuși foarte important de punctat este că toate dubiile pe care
 
 Trebuie să mai punctez că unele persoane care tranziționează nu necesită discuții cu psihoterapeuți pentru a lua această decizie. Pentru ele este clar că imaginea din oglindă nu corespunde identității lor și astfel încep tranziția fără prea multe ezitări. Nu am date concrete, dar aș zice că majoritate avem nevoie să fim ghidați/ghidate în procesul de autocunoaștere.
 
-## Bun, ai ales să tranziționezi. Now what?
+## "Bun, ai ales să tranziționezi. Now what?"
 
 Mai departe voi povesti doar despre tranziția mea socială și medicală din simplu motiv că sunt familiar cu ele. Despre schimbarea legală a numelui sau a sexului din buletin nu pot ajuta, din păcate. Nu a fost o necesitate pentru mine. Numele meu masculin nu mă deranjează absolut deloc, iar sexul din buletin cu atât mai puțin.
 
@@ -44,7 +44,7 @@ Dacă mă compar cu poveștile altor persoane, aș zice că tranziția mea a fos
 
 De aceea revin la recomandarea mea anterioară: începe cu persoane care te pot înțelege! Un loc bun ar fi în cadrul comunității LGBTQ+! În București există ONG-uri precum MozaiQ și Accept, care te pot ajuta. Cu siguranță sunt și altele, mai ales în marile orașe ale României. Trebuie doar să cauți.
 
-## Și din punct de vedere medical?
+## "Și din punct de vedere medical?"
 
 Pe Internet există deja suficiente articole în limba română care descriu ce trebuie să faci ca să poți începe tratamentul hormonal. Da, nu poți merge așa, pur și simplu, la farmacie și să ceri estrogen, de exemplu! Nu voi comenta acuma dacă acest proces este OK sau nu. La scrierea acestui articol, trebuie să sari niște hopuri înainte să începi tratamentul hormonal.
 

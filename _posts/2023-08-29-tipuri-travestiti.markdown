@@ -23,7 +23,7 @@ Poate la fel de important, mulți bărbați sunt excitați atunci când sunt for
 
 Dragă cititorule, simt că este important să menționez: a avea un fetiș (sau mai multe) nu este un lucru rău, pervers sau denigrant. Ba din contră, aș zice că este o componentă normală a firii umane, întâlnită la majoritatea oamenilor. Singurul moment în care aș trage un semnal de alarmă este atunci când un fetiș îți domină viața sexuală - dacă nu poți să te bucuri de sex fără fetișul tău. Atunci da, cred că ar trebui să te îngrijorezi. Altfel? Dăi înainte și bucură-te de o viață sexuală bogată și diversă!
 
-## 2. Care-i faza cu “Drag queens”?
+## 2. "Care-i faza cu 'Drag queens'"?
 
 Dacă ai auzit de `RuPaul's Drag Race`, ești printre puținii români care știu deja ce este o `drag queen` (regină a drag-ului). Foarte pe scurt, drag-ul este o formă de divertisment (sau chiar artă uneori) în care persoana în cauză joacă un personaj de-o feminitate exagerată; machiajul, hainele, comportamentul, toate sunt de obicei extravagante. Deși majoritatea reginelor sunt bărbați gay, oricine poate juca rolul de “drag queen”.
 
@@ -33,7 +33,7 @@ OK, până acum am vorbit despre fetișuri sexuale și forme de divertisment. Da
 
 *Pentru că așa simțim că ne place să ne îmbrăcăm.*
 
-## Adică… ești un bărbat care îi place să poarte fuste?
+## "Adică… ești un bărbat care îi place să poarte fuste?"
 
 Dap.
 
@@ -45,7 +45,7 @@ Acordă-ți puțin timp să găsești un răspuns, apoi continuă să citești m
 
 Răspunsuri de genul “Pentru că asta poartă și restul lumii.”, sau “Pentru că mi-e frică de ce-o să zică ceilalți!” nu sunt OK, chiar dacă înțeleg perfect de unde vin - doar le-am folosit drept scuză să nu fac ce îmi doream de multe ori. În afara câtorva excepții - de exemplu, uniforma de muncă sau de școală -, singurul răspuns ar trebui să fie "Pentru că așa îmi place". Modul cum te îmbraci ar trebui să fie totalmente decizia ta. Și nu, nu ar trebui să te simți obligat să găsești argumente pentru ceea ce faci atâta timp cât activitatea nu aduce prejudicii celor din jur.
 
-## 3. OK, dar totuși, nu ai vreun motiv?
+## 3. "OK, dar totuși, nu ai vreun motiv?"
 
 Hm… am stat mult să mă gândesc de ce fac ceea ce fac, și sincer…? Indiferent ce răspuns am găsit, nu m-a satisfăcut mai mult decât pur și simplu să port acele tocuri sau acea rochie preferate. Cu alte cuvinte, mi-am dat seama că a găsi argumente pentru a face ceva ce-mi place e pierdere de vreme. “*Just do it!*” cum zice Shia Labeouf.
 
